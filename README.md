@@ -9,7 +9,7 @@ Twitch is a streaming platform where people broadcast live playing games.
 ### "TwitchPlays"
 Someone eventually got the idea to allow stream viewers to interact directly with the game via chat.
 ### The Project
-TwitchPlaysYourGame was a project to not only let viewers play the game via chat, but also choose which game they would play.
+TwitchPlaysYourGame was a project to not only let viewers play the game via chat, but also let them choose which game they would play.
 
 It had a peak of 40 viewers simutaneously, and many fun memories were created.
 
